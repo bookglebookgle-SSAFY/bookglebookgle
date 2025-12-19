@@ -1,6 +1,6 @@
 # TEAM 북치고 책펼치고 "북글북글(Bookgle)"
 
-### 🏆SSAFY 13기 공통프로젝트 내마음속최우수상🏆
+### 🏆SSAFY 13기 공통프로젝트🏆
 
 > 실시간 PDF 공유 플랫폼 "북글북글"
 > 
@@ -299,5 +299,6 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
 <br>
 
 ### [🎨 Figma](https://www.figma.com/design/fc7T25rVce9NzzSfE5h6pm/Untitled?node-id=0-1&p=f&t=uuhq0vrpWAXzrhCK-0)
+
 
 [ERD Diagram](asset/erd.png)
